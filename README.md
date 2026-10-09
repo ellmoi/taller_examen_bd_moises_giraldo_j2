@@ -1,5 +1,6 @@
 # Taller resuelto: historias clínicas de Oftalmología y Glaucoma
 
+**[Abrir el modelo completo y ampliar la imagen](https://raw.githubusercontent.com/ellmoi/taller_examen_bd_moises_giraldo_j2/main/modelo_completo.png)**
 
 **Estudiante:** Moisés Giraldo Alzate.  
 **Motor probado:** MySQL Community Server 8.0.46.  
@@ -926,7 +927,9 @@ VISIT_DIAGNOSES
 
 **Respuesta / desarrollo:**
 
+![Modelo completo con entidades, atributos y relaciones](modelo_completo.png)
 
+**[Abrir el modelo completo y ampliar la imagen](https://raw.githubusercontent.com/ellmoi/taller_examen_bd_moises_giraldo_j2/main/modelo_completo.png)**
 
 
 
